@@ -1,0 +1,25 @@
+{
+  "name": "n2p",
+  "version": "0.0.1",
+  "description": "node-style callback to promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkovacs/n2p.git"
+  },
+  "keywords": [
+    "nodeback",
+    "callback",
+    "promise",
+    "async"
+  ],
+  "author": "Geza Kovacs (http://github.com/gkovacs)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkovacs/n2p/issues"
+  },
+  "homepage": "https://github.com/gkovacs/n2p#readme"
+}
