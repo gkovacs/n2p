@@ -1,6 +1,6 @@
 {
   "name": "n2p",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node-style callback to promise",
   "main": "index.js",
   "scripts": {
